@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dzhu917
 - 👀 I’m interested in sustainability, business, and tech
-- 🌱 I’m currently learning data science in supply chains at Johnson & Johnson
+- 🌱 I’m currently working in Sustainability Strategy at PepsiCo
 - 📫 How to reach me: dianazhu@college.harvard.edu
 
 <!---
